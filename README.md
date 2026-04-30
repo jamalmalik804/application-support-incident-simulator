@@ -21,13 +21,14 @@ This project simulates real-world application support scenarios using SQL, log a
 - queries/ → debugging SQL queries
 - logs/ → simulated application logs
 - screenshots/ → proof of execution
-
-## Example Scenario
-A user login issue was diagnosed using SQL queries and log analysis. The root cause was an inactive account and was resolved by updating database values.# application-support-incident-simulator
-Simulates real-world application support incidents using SQL, log analysis, and ITIL-based troubleshooting.
-
+  
 ## Incident Scenarios Included
 - User login issue
 - Data mismatch issue
 - Performance issue (query optimization)
 - Order processing failure
+
+## Example Scenario
+A user login issue was diagnosed using SQL queries and log analysis. The root cause was an inactive account and was resolved by updating database values.# application-support-incident-simulator
+Simulates real-world application support incidents using SQL, log analysis, and ITIL-based troubleshooting.
+
